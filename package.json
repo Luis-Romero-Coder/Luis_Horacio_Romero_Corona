@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "7e76",
+      "username": "luis",
+      "password": "1234qwer",
+      "role": "admin"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "Concierto de Rock",
+      "date": "2023-11-01",
+      "capacity": 20,
+      "participants": 0,
+      "description": "Un emocionante concierto de rock con bandas locales.",
+      "id": "b547"
+    },
+    {
+      "nameEvent": "Feria de Comida",
+      "date": "2023-11-05",
+      "capacity": 20,
+      "participants": 7,
+      "description": "Una feria con una variedad de puestos de comida.",
+      "id": "3902"
+    },
+    {
+      "nameEvent": "Conferencia de Tecnología",
+      "date": "2023-11-10",
+      "capacity": 15,
+      "participants": 8,
+      "description": "Una conferencia sobre las últimas tendencias en tecnología.",
+      "id": "437b"
+    },
+    {
+      "id": "b2f9",
+      "nameEvent": "Arroz con papa",
+      "date": "2026-02-01",
+      "description": "Comer arroz",
+      "capacity": 20,
+      "participants": 0
+    }
+  ]
+}
